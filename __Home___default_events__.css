@@ -1,0 +1,800 @@
+.mediaViewInfo {
+	--web-view-name: * Home - default/events *;
+	--web-view-id: _Home_-_defaultevents_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: _Home_-_defaultevents_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#_Home_-_defaultevents_ {
+	position: absolute;
+	width: 1920px;
+	height: 3218px;
+	background-color: rgba(253,255,255,1);
+	overflow: hidden;
+	--web-view-name: * Home - default/events *;
+	--web-view-id: _Home_-_defaultevents_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_45 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 1822px;
+	height: 1211px;
+	left: 48px;
+	top: 844px;
+}
+#Group_33 {
+	position: absolute;
+	width: 1822px;
+	height: 115px;
+	left: 48px;
+	top: 844px;
+	overflow: visible;
+}
+#Rectangle_46 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 1822px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 1108.128px;
+	height: 1095.503px;
+	left: 761.541px;
+	top: 959px;
+	overflow: visible;
+}
+#Repeat_Grid_3 {
+	position: absolute;
+	width: 386px;
+	height: 918px;
+	left: 98px;
+	top: 1009px;
+	overflow: hidden;
+}
+#Repeat_Grid_3_0 {
+	position: absolute;
+	width: 385px;
+	height: 147px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Protest_62320_at_1200_pm_City_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Repeat_Grid_3_1 {
+	position: absolute;
+	width: 385px;
+	height: 147px;
+	left: 0px;
+	top: 187px;
+	overflow: visible;
+}
+#Protest_62320_at_1200_pm_City__ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Repeat_Grid_3_2 {
+	position: absolute;
+	width: 385px;
+	height: 147px;
+	left: 0px;
+	top: 374px;
+	overflow: visible;
+}
+#Protest_62320_at_1200_pm_City__ba {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Repeat_Grid_3_3 {
+	position: absolute;
+	width: 385px;
+	height: 147px;
+	left: 0px;
+	top: 561px;
+	overflow: visible;
+}
+#Protest_62320_at_1200_pm_City__bb {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Repeat_Grid_3_4 {
+	position: absolute;
+	width: 385px;
+	height: 147px;
+	left: 0px;
+	top: 748px;
+	overflow: visible;
+}
+#Protest_62320_at_1200_pm_City__bc {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_47 {
+	fill: rgba(82,90,93,1);
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 400px;
+	left: 731px;
+	top: 976px;
+}
+#Rectangle_48 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 48px;
+	top: 844px;
+}
+#Rectangle_49 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 503px;
+	top: 844px;
+}
+#Rectangle_50 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 1414px;
+	top: 844px;
+}
+#Rectangle_51 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 959px;
+	top: 844px;
+}
+#Events {
+	left: 204px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Businesses {
+	left: 618px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Organizations {
+	left: 1044px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Stories__News {
+	left: 1492px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_56 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_56 {
+	position: absolute;
+	overflow: visible;
+	width: 714px;
+	height: 128px;
+	left: 48px;
+	top: 1927px;
+}
+#mission_statement {
+	position: absolute;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 2105px;
+	overflow: visible;
+}
+#mission_statement_and_goals {
+	position: absolute;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(225,226,239,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 0px;
+}
+#Mission_Statement__San_Jos_Str {
+	left: 130px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 1662px;
+	height: 536px;
+	line-height: 54px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_11 {
+	position: absolute;
+	width: 490px;
+	height: 95px;
+	left: 715px;
+	top: 649px;
+	overflow: visible;
+}
+#Rectangle_8 {
+	fill: rgba(153,157,209,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+#Volunteer {
+	left: 156px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#Group_39 {
+	position: absolute;
+	width: 490px;
+	height: 95px;
+	left: 160px;
+	top: 1944px;
+	overflow: visible;
+}
+#Rectangle_8_bp {
+	fill: rgba(164,168,221,1);
+}
+.Rectangle_8_bp {
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+#View_calendar {
+	left: 116px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#footer {
+	position: absolute;
+	width: 1920px;
+	height: 309px;
+	left: 0px;
+	top: 2909px;
+	overflow: visible;
+}
+#Rectangle_58 {
+	fill: rgba(164,168,221,1);
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 309px;
+	left: 0px;
+	top: 0px;
+}
+#San_Jose_Strong__2020 {
+	left: 137px;
+	top: 208px;
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_40 {
+	position: absolute;
+	width: 69.001px;
+	height: 137.002px;
+	left: 1772.999px;
+	top: 1886.999px;
+	overflow: visible;
+}
+#Group_32 {
+	position: absolute;
+	width: 69.001px;
+	height: 137.002px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Union_4 {
+	fill: rgba(255,255,255,1);
+}
+.Union_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 87.001px;
+	height: 155.002px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_23 {
+	fill: rgba(82,90,93,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 4px;
+	left: 22.001px;
+	top: 103.001px;
+}
+#Rectangle_24 {
+	fill: rgba(82,90,93,1);
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 4px;
+	left: 22.001px;
+	top: 33.001px;
+}
+#Rectangle_25 {
+	fill: rgba(82,90,93,1);
+}
+.Rectangle_25 {
+	width: 24.75px;
+	height: 4.125px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-11091.999px, 9795.501px) matrix(1,0,0,1,11114,-9763) rotate(90deg);
+	transform-origin: center;
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(229,229,229,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 54px;
+	height: 1px;
+	left: 6.501px;
+	top: 68.501px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_41 {
+	position: absolute;
+	width: 84px;
+	height: 129px;
+	left: 976px;
+	top: 1048px;
+	overflow: visible;
+}
+#Ellipse_4 {
+	fill: rgba(195,195,195,0.502);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	height: 26px;
+	left: 7px;
+	top: 103px;
+}
+#Subtraction_3 {
+	fill: rgba(153,157,209,1);
+}
+.Subtraction_3 {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 116.378px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_42 {
+	position: absolute;
+	width: 84px;
+	height: 129px;
+	left: 1330px;
+	top: 1319px;
+	overflow: visible;
+}
+#Ellipse_4_b {
+	fill: rgba(195,195,195,0.502);
+}
+.Ellipse_4_b {
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	height: 26px;
+	left: 7px;
+	top: 103px;
+}
+#Subtraction_3_b {
+	fill: rgba(153,157,209,1);
+}
+.Subtraction_3_b {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 116.378px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_43 {
+	position: absolute;
+	width: 84px;
+	height: 129px;
+	left: 918px;
+	top: 1908px;
+	overflow: visible;
+}
+#Ellipse_4_ca {
+	fill: rgba(195,195,195,0.502);
+}
+.Ellipse_4_ca {
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	height: 26px;
+	left: 7px;
+	top: 103px;
+}
+#Subtraction_3_ca {
+	fill: rgba(153,157,209,1);
+}
+.Subtraction_3_ca {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 116.378px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#sj_strong_header_home {
+	position: absolute;
+	width: 1920px;
+	height: 794px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#header {
+	position: absolute;
+	width: 1920px;
+	height: 646px;
+	left: 0px;
+	top: 148px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(225,226,239,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 646px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_48 {
+	position: absolute;
+	width: 1920px;
+	height: 148px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	fill: rgba(153,157,209,1);
+}
+.Rectangle_7 {
+	filter: drop-shadow(0px 3px 1px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 152.5px;
+	left: 0px;
+	top: 0px;
+}
+#Group_47 {
+	position: absolute;
+	width: 120px;
+	height: 84px;
+	left: 1750px;
+	top: 32px;
+	overflow: visible;
+}
+#Rectangle_73 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_74 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 16px;
+	left: 0px;
+	top: 34px;
+}
+#Rectangle_75 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 15px;
+	left: 0px;
+	top: 69px;
+}
+#Group_51 {
+	position: absolute;
+	width: 1072px;
+	height: 347px;
+	left: 130px;
+	top: 332px;
+	overflow: visible;
+}
+#San_Jos_Strong {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1073px;
+	height: 152px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(0,0,0,1);
+}
+#A_grassroots_platform_to_reinv {
+	left: 0px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 1073px;
+	height: 176px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 470px;
+	height: 619px;
+	left: 1320px;
+	top: 171px;
+	overflow: visible;
+}
